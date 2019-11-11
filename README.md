@@ -6,7 +6,7 @@ DDANGEUN/RobotJellibi 설명
 * [Jellibi 샘플코드](https://github.com/signaled/JellibiSample) github 링크  
 >Jellibi 샘플코드와 함께 설명이 첨부되어 있습니다.
 
-
+* * *
 JellibiDemo/
 ---
 
@@ -14,3 +14,4 @@ JellibiDemo/
 
 
 >[주행 동영상](https://youtu.be/2dDYlrw8vAo)
+* * *
